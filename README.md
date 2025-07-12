@@ -1,7 +1,23 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on<br> 1. PharmaTrust TZ<br>2. Tzine<br>👯 I’m looking to collaborate on<br>1. Any web based or Mobile App based Projects<br>🌱 I’m currently learning<br>1. NEST JS<br>2. Deploying Mobile Apps<br>3. Working with Google Cloud Platform and Deploying Web Apps<br>💬 Ask me about<br>1. Anything 😌<br>⚡ Fun fact<br>1. On my free time I play basketball for fun 🏀🏀
+
+## 🔭 I’m currently working on
+1. PharmaTrust TZ
+2. Tzine
+
+## 👯 I’m looking to collaborate on
+Any web based or Mobile App based Projects
+
+## 🌱 I’m currently learning
+1. NEST JS
+2. Deploying Mobile Apps
+3. Working with Google Cloud Platform and Deploying Web Apps
+## 💬 Ask me about
+Anything 😌
+
+## ⚡ Fun fact
+On my free time I play basketball for fun 🏀🏀
 
 
 ## 🌐 Socials:
